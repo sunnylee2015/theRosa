@@ -10,4 +10,4 @@ HTML & CSS
 
 
 # Screenshot
-![Image](naturewalkgif.gif?raw=true)
+![Image](therosagif.gif?raw=true)
