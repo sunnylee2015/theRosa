@@ -9,5 +9,5 @@ HTML, CSS, Javascript
 * Scroll reveal used 
 
 
-# Screenshot
+
 ![Image](therosagif.gif?raw=true)
