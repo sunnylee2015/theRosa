@@ -1,5 +1,5 @@
 # The Rosa
-HTML & CSS
+HTML, CSS, Javascript
 
 
 # What I Learned
